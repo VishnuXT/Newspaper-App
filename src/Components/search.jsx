@@ -14,7 +14,7 @@ const SearchSubscribers = () => {
                         <label htmlFor="" className="form-label">Subscriber's Name</label>
                         <input type="text" className="form-control" placeholder='enter the name' />
                     </div>
-                    <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                    <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 add">
                         <button className="btn btn-primary">Search</button>
                     </div>
                 </div>

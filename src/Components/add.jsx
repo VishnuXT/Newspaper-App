@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./navbar";
-import "../App.css"
+import "../App.css";
 
 const AddSubscribers = () => {
   return (
@@ -82,6 +82,10 @@ const AddSubscribers = () => {
               </div>
             </div>
           </div>
+        </div>
+        <br />
+        <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 add">
+          <button className="btn  btn-success">Add</button>
         </div>
       </div>
     </div>
